@@ -1,8 +1,8 @@
-Happy Birthday
+Happy New Year
 
-A Happy Birthday animation design in CSS3, HTML5.
+Happy New Year animation design in CSS3, HTML5.
 
-URL: http://ayusharma.github.io/birthday/
+URL: https://ganvsp.github.io/HappyNewYear-2021/
 
 Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
